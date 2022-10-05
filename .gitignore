@@ -1,0 +1,10 @@
+
+node_modules/
+jest.config.js/
+psckage.json/
+tsconfig.json/
+psckage-lock.json/
+calculator-test/package-lock.json
+calculator-test/package.json
+calculator-test/tsconfig.json
+calculator-test/jest.config.js
